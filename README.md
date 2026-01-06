@@ -83,5 +83,3 @@ Full Stack JavaScript Developer | Backend • System Design • Problem Solving
 - 🔹 **Authentication & Authorization System**
 - 🔹 **Production-Ready REST API Boilerplate**
 - 🔹 **Full Stack Dashboard**
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Deepakprajapat769&color=6)
