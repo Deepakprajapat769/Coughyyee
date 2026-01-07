@@ -1,8 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <h1 align="center">Deepak Prajapat</h1>
 
 <h3 align="center">
 Full Stack JavaScript Developer | Backend • System Design • Problem Solving
 </h3>
+
+
 
 <p align="center">
   <a href="https://github.com/Deepakprajapat769">
@@ -26,32 +30,20 @@ Full Stack JavaScript Developer | Backend • System Design • Problem Solving
 - 🤝 Open for **Open Source & Collaboration**
 - 🎯 Goal: Write **clean, maintainable, production-ready code**
 
----
-
-## 🧠 Problem Solving (DSA)
-
-- Arrays, Strings, Hashing  
-- Stack, Queue, Linked List  
-- Trees & Binary Search  
-- Recursion & Backtracking  
-- Basics of Graphs & DP  
-
-### 🧩 LeetCode Stats (Verified & Working)
-![LeetCode Stats](https://leetcard.jacoblin.cool/DeepakPrajapat?theme=dark&font=Noto%20Sans%20Egyptian%20Hieroglyphs&ext=contest)
-
 
 ---
+<h2 align="center">⚡ Stats ⚡</h2>
 
-## 🏗️ Backend & System Design
+<br>
+<div align=center>
+  <img width=390 align='center' src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- <br/> -->
+  <img width=280 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-- REST API Design  
-- JWT Authentication & Authorization  
-- Database Schema & Indexing  
-- Redis Caching  
-- Scalable Backend Patterns  
-- Real-Time Communication (Socket.io)  
+<br/><br/>
 
----
+<hr/>
 
 ## 💻 Tech Stack
 
@@ -74,6 +66,17 @@ Full Stack JavaScript Developer | Backend • System Design • Problem Solving
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=dc382d)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05033)
+
+---
+
+## 🏗️ Backend & System Design
+
+- REST API Design  
+- JWT Authentication & Authorization  
+- Database Schema & Indexing  
+- Redis Caching  
+- Scalable Backend Patterns  
+- Real-Time Communication (Socket.io)  
 
 ---
 
